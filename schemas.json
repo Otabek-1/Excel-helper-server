@@ -1,0 +1,46 @@
+{
+  "Test.xlsx": {
+    "document_name": "Test",
+    "sheets": [
+      {
+        "name": "Sheet 1",
+        "columns": [
+          {
+            "name": "Text",
+            "type": "text"
+          },
+          {
+            "name": "Number",
+            "type": "number"
+          },
+          {
+            "name": "Date",
+            "type": "date"
+          }
+        ]
+      }
+    ]
+  },
+  "File.xlsx": {
+    "document_name": "File",
+    "sheets": [
+      {
+        "name": "Sheet",
+        "columns": [
+          {
+            "name": "Name",
+            "type": "text"
+          },
+          {
+            "name": "Number",
+            "type": "number"
+          },
+          {
+            "name": "Date",
+            "type": "date"
+          }
+        ]
+      }
+    ]
+  }
+}
